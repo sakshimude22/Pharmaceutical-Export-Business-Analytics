@@ -121,6 +121,13 @@ Export Orders (1) ──── (Many) Shipments
 ---
 
 # 📈 Dashboard Pages
+<img width="568" height="322" alt="Executive Summary" src="https://github.com/user-attachments/assets/bb41dae0-ecdc-4314-9131-a89e7c4d8a6f" />
+<img width="569" height="322" alt="Country Ananlysis" src="https://github.com/user-attachments/assets/406f5167-f71d-4d64-a018-88dc0ea3fa7f" />
+<img width="566" height="321" alt="Medicine Analysis" src="https://github.com/user-attachments/assets/5bd707bc-7ae3-4ef4-b103-eee11a46459a" />
+<img width="568" height="320" alt="Shipment Analysis" src="https://github.com/user-attachments/assets/a1445c76-bf5c-40e3-aecd-a1ebef5604d7" />
+<img width="568" height="323" alt="Revenue Trends" src="https://github.com/user-attachments/assets/93ae6948-3fea-4a3b-a502-1e8ac803f637" />
+<img width="568" height="199" alt="Business_insights_key_findings" src="https://github.com/user-attachments/assets/fafef497-9cb6-4997-9230-af53805ee95d" />
+<img width="566" height="204" alt="Business_insights_Recommendations" src="https://github.com/user-attachments/assets/65ad6942-e1d8-42e7-b937-693f949af39e" />
 
 ## 1️⃣ Executive Summary
 
