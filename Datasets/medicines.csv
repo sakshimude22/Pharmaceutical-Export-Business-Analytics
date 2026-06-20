@@ -1,0 +1,501 @@
+medicine_id,medicine_name,drug_class
+1,augmentin 625 duo tablet,Antibiotic 
+2,azithral 500 tablet,Painkiller
+3,ascoril ls syrup,Painkiller
+4,allegra 120mg tablet,Antihistamine
+5,avil 25 tablet,Antibiotic 
+6,allegra-m tablet,Painkiller
+7,amoxyclav 625 tablet,Antihistamine
+8,azee 500 tablet,Painkiller
+9,atarax 25mg tablet,Antibiotic 
+10,ascoril d plus syrup sugar free,Antihistamine
+11,aciloc 150 tablet,Antibiotic 
+12,alex syrup,Antihistamine
+13,anovate cream,Antibiotic 
+14,augmentin duo oral suspension,Painkiller
+15,ambrodil-s syrup,Antibiotic 
+16,arkamin tablet,Painkiller
+17,avomine tablet,Antihistamine
+18,asthakind-dx syrup sugar free,Painkiller
+19,allegra 180mg tablet,Antihistamine
+20,albendazole 400mg tablet,Antibiotic 
+21,asthalin syrup,Antihistamine
+22,alprax 0.25 tablet,Antibiotic 
+23,altraday capsule sr,Painkiller
+24,ativan 2mg tablet,Antibiotic 
+25,ascoril ls junior syrup,Antihistamine
+26,asthalin 100mcg inhaler,Painkiller
+27,almox 500 capsule,Antihistamine
+28,atarax 10mg tablet,Antibiotic 
+29,aciloc rd 20 tablet,Antihistamine
+30,aldactone tablet,Antihistamine
+31,allegra suspension raspberry & vanilla,Antihistamine
+32,atarax syrup,Antibiotic 
+33,amlokind-at tablet,Painkiller
+34,axcer  90mg tablet,Antibiotic 
+35,ativan 1mg tablet,Painkiller
+36,alkasol oral solution,Antibiotic 
+37,aldigesic p 100mg/325mg tablet,Antihistamine
+38,alfoo 10mg tablet pr,Antibiotic 
+39,alprax 0.5mg tablet,Painkiller
+40,arachitol 6l injection,Antihistamine
+41,anafortan 25 mg/300 mg tablet,Antibiotic 
+42,alex junior syrup,Painkiller
+43,azithral 200 liquid,Antihistamine
+44,ab phylline capsule,Painkiller
+45,althrocin 500 tablet,Antihistamine
+46,augmentin dds suspension,Painkiller
+47,azicip 500 tablet,Antihistamine
+48,aldigesic-sp tablet,Antibiotic 
+49,amoxycillin 500mg capsule,Painkiller
+50,asthakind expectorant sugar free,Antihistamine
+51,acemiz plus tablet,Antibiotic 
+52,aceclo plus tablet,Antihistamine
+53,anobliss cream,Antibiotic 
+54,alex cough lozenges lemon ginger,Painkiller
+55,asthalin respules,Antihistamine
+56,avil injection,Painkiller
+57,azee 200mg dry syrup,Antibiotic 
+58,atorva tablet,Antibiotic 
+59,asthakind-ls expectorant cola sugar free,Antihistamine
+60,ascoril ls drops,Antihistamine
+61,azmarda 50mg tablet,Antibiotic 
+62,amixide-h tablet,Painkiller
+63,ab-flo-n tablet,Antihistamine
+64,af kit tablet,Antibiotic 
+65,amlokind 5 tablet,Painkiller
+66,amlong tablet,Antihistamine
+67,akt 4 kit,Antibiotic 
+68,ascoril d junior cough syrup,Antibiotic 
+69,amitone 10mg tablet,Antihistamine
+70,aulin 100mg tablet,Painkiller
+71,amikacin sulphate 500mg injection,Painkiller
+72,ambrodil-lx syrup,Antibiotic 
+73,aquasol a capsule,Antihistamine
+74,ab phylline sr 200 tablet,Antibiotic 
+75,azoran tablet,Painkiller
+76,aztor 10 tablet,Antihistamine
+77,atorva 40 tablet,Painkiller
+78,azax 500 tablet,Painkiller
+79,alex syrup sugar free,Antibiotic 
+80,anxit 0.5 tablet,Antihistamine
+81,anxit 0.25mg tablet,Antihistamine
+82,acitrom 2 tablet,Antibiotic 
+83,angispan - tr 2.5mg capsule,Painkiller
+84,azeflo nasal spray,Painkiller
+85,acemiz -mr tablet,Painkiller
+86,akurit 4 tablet,Antihistamine
+87,aerocort inhaler,Antibiotic 
+88,adaferin gel,Antibiotic 
+89,acivir 400 dt tablet,Antibiotic 
+90,aptimust syrup,Painkiller
+91,augmentin 1000 duo tablet,Antihistamine
+92,ambrodil syrup,Painkiller
+93,acogut tablet,Antihistamine
+94,atarax drops,Antibiotic 
+95,amlip 5 tablet,Painkiller
+96,antid 300mcg/ml injection,Antibiotic 
+97,alerid syrup,Antihistamine
+98,aldactone 50 tablet,Painkiller
+99,ampoxin 500 capsule,Antihistamine
+100,azee 250 tablet,Antibiotic 
+101,alerid tablet,Painkiller
+102,augmentin 375 tablet,Painkiller
+103,acenac-p  tablet,Antihistamine
+104,acivir cream,Antibiotic 
+105,ab-flo capsule,Antihistamine
+106,ab phylline n tablet,Antihistamine
+107,amifru 40 tablet,Antibiotic 
+108,avamys nasal spray,Painkiller
+109,alkasol oral solution sugar free,Antibiotic 
+110,aciloc 300 tablet,Antihistamine
+111,aziderm 20% cream,Antibiotic 
+112,ace proxyvon tablet,Antihistamine
+113,avil injection,Painkiller
+114,ano metrogyl cream,Painkiller
+115,admenta 5 tablet,Antihistamine
+116,aceclo-mr tablet,Antihistamine
+117,alerid-d tablet,Painkiller
+118,acemiz-s tablet,Painkiller
+119,allercet-dc tablet,Antibiotic 
+120,aztolet  10 tablet,Painkiller
+121,augmentin 1.2gm injection,Antihistamine
+122,ambrodil-plus rf syrup,Antibiotic 
+123,amlopres-at tablet,Antihistamine
+124,ajaduo 25mg/5mg tablet,Painkiller
+125,avanair 100 tablet,Painkiller
+126,acton-or tablet sr,Antihistamine
+127,aquazide 12.5 tablet,Painkiller
+128,alaspan am tablet,Antihistamine
+129,althrocin 250 tablet,Antibiotic 
+130,azikem 500mg tablet,Antihistamine
+131,aldosmin 500mg tablet,Painkiller
+132,amlovas 5 tablet,Painkiller
+133,acitrom 1 tablet,Antibiotic 
+134,af 150 tablet dt,Antihistamine
+135,ascoril sf expectorant,Antibiotic 
+136,amaryl m  1mg tablet pr,Painkiller
+137,azithral xl 200 liquid,Antihistamine
+138,af 400 tablet,Painkiller
+139,amantrel tablet,Antihistamine
+140,atorva 20 tablet,Painkiller
+141,acenac-mr tablet,Antihistamine
+142,ambrolite-s expectorant,Antihistamine
+143,asthalin 4 tablet,Antibiotic 
+144,abiways tablet,Painkiller
+145,amaryl m  2mg tablet pr,Antihistamine
+146,azoran tablet,Painkiller
+147,ampilox capsule,Antihistamine
+148,adrenaline tartrate injection,Painkiller
+149,acogut 300 er tablet,Antihistamine
+150,acuvin tablet,Antibiotic 
+151,ab-flo sr tablet,Antihistamine
+152,air-m tablet,Painkiller
+153,atorlip-f tablet,Antihistamine
+154,advent forte 457mg syrup tangy orange,Painkiller
+155,amlodac 5 tablet,Antihistamine
+156,aztor 40 tablet,Antibiotic 
+157,ascoril plus expectorant,Antihistamine
+158,alupent 10mg tablet,Painkiller
+159,amlip at tablet,Antihistamine
+160,asthakind-p drops,Antibiotic 
+161,allegra nasal spray,Antihistamine
+162,addnok 0.2mg tablet,Antibiotic 
+163,aldosmin 1000mg tablet,Antihistamine
+164,andre i-kul eye drop,Painkiller
+165,antiflu 75mg capsule,Antihistamine
+166,alerfix total tablet sr,Painkiller
+167,alex-l cough syrup mango,Antihistamine
+168,atropine sulphate injection,Painkiller
+169,aquaviron injection 1ml,Antihistamine
+170,aciclovir 400 tablet,Painkiller
+171,alkof dx syrup,Antibiotic 
+172,atm 500 tablet,Painkiller
+173,assurans tablet,Painkiller
+174,ambrolite d syrup,Antihistamine
+175,actrapid hm 100iu/ml penfill,Antibiotic 
+176,aten 50 tablet,Antibiotic 
+177,azmarda 100mg tablet,Antihistamine
+178,asthalin ax syrup,Painkiller
+179,alzolam 0.5mg tablet,Painkiller
+180,a kare combipack,Antibiotic 
+181,ambulax tablet,Antihistamine
+182,amlovas-at tablet,Painkiller
+183,asthakind-dx junior syrup cherry,Antibiotic 
+184,advent 228.5mg dry syrup,Antihistamine
+185,acivir 800 dt tablet,Painkiller
+186,alfusin tablet pr,Antihistamine
+187,aziwok 500 tablet,Antibiotic 
+188,alkacitral liquid,Antibiotic 
+189,almox-cv 625 tablet,Antihistamine
+190,azithral 100 liquid,Painkiller
+191,azee 100mg dry syrup peppermint,Antihistamine
+192,ace-proxyvon cr tablet,Antibiotic 
+193,ascoril c  syrup,Antihistamine
+194,aprezo 30mg tablet,Painkiller
+195,apidra 100iu cartridge,Antihistamine
+196,amlosafe 3d tablet,Antibiotic 
+197,andial 2mg tablet,Painkiller
+198,acenext p 100mg/325mg tablet,Antihistamine
+199,acnesol a nano gel,Antibiotic 
+200,ascoril flu syrup,Painkiller
+201,asomex 2.5 tablet,Antibiotic 
+202,angiplat 2.5 capsule tr,Antibiotic 
+203,alkof cofgel  tablet,Painkiller
+204,azithral 250mg dt tablet,Antihistamine
+205,alzolam 0.25mg tablet,Antihistamine
+206,advent 625 tablet,Antibiotic 
+207,alsita m 50mg/500mg tablet,Painkiller
+208,axogurd-sr tablet,Antibiotic 
+209,azoflox uti tablet,Antihistamine
+210,azulix 2 mf tablet pr,Painkiller
+211,amaryl mv 2mg tablet sr,Painkiller
+212,azulix 1 mf tablet pr,Antibiotic 
+213,aten 25 tablet,Antihistamine
+214,azibact 500 tablet,Antihistamine
+215,amlopres tl tablet,Antibiotic 
+216,ambrolite syrup,Painkiller
+217,actapro tablet,Antibiotic 
+218,aztor 20 tablet,
+219,alkof syrup,Painkiller
+220,atorfit cv 10 capsule,Antibiotic 
+221,acnesol gel,Painkiller
+222,amtas 5 tablet,Antihistamine
+223,alrgee 120mg tablet,Antibiotic 
+224,avil 50mg tablet,Antihistamine
+225,arip mt 5 tablet,Painkiller
+226,alivher tablet,Antihistamine
+227,apdrops lp  eye drop bak free,Painkiller
+228,amrox-ls syrup,Antibiotic 
+229,altonil 3mg tablet,
+230,allercet cold tablet,Antihistamine
+231,atorlip 10 tablet,Painkiller
+232,admenta 10 tablet,Painkiller
+233,amox 500mg capsule,Antihistamine
+234,azee 250 tablet,Antibiotic 
+235,asthalin respirator solution,Painkiller
+236,add tears lubricant eye drop,Painkiller
+237,almox 250 capsule,Antihistamine
+238,aztor asp 75 capsule,Antibiotic 
+239,alkacip syrup,Painkiller
+240,arbitel-trio 50 tablet er,Antihistamine
+241,acivir 200 dt tablet,Antibiotic 
+242,augmentin es oral suspension,Antihistamine
+243,amrolstar cream,
+244,adalene nanogel gel,Painkiller
+245,apigat 2.5 tablet,Antihistamine
+246,aeromont-b tablet,Antibiotic 
+247,amlopres 5 tablet,Antihistamine
+248,abevia-n tablet,Antibiotic 
+249,acamprol tablet,Antihistamine
+250,ancool  oral suspension sugar free,Painkiller
+251,atormac cv10 capsule,
+252,apdrops pd eye drop,Painkiller
+253,amnurite  10 tablet sr,Antihistamine
+254,atonide gel,Antihistamine
+255,amlong-a tablet,Antibiotic 
+256,acivir 500 infusion,Antibiotic 
+257,af-k lotion,Antihistamine
+258,amoxyclav 375 tablet,Antihistamine
+259,abd 400mg tablet,Painkiller
+260,amlong 2.5 tablet,Painkiller
+261,alburel 20gm solution for infusion,Antihistamine
+262,anacin tablet,Antibiotic 
+263,azithro 250mg tablet,Antihistamine
+264,azimax 500 tablet,
+265,amlosafe-at tablet,Antihistamine
+266,air 180 tablet,Antibiotic 
+267,adilip 135 tablet dr,Painkiller
+268,apdrops eye drop,Painkiller
+269,amlosafe 5 tablet,Antibiotic 
+270,apigat 5 tablet,Antihistamine
+271,amlogard 5mg tablet,
+272,amaryl mv 1mg tablet sr,Painkiller
+273,azee 500 tablet,Antihistamine
+274,alergin l tablet,Antihistamine
+275,aciloc injection,Antibiotic 
+276,alex p syrup,Painkiller
+277,azr tablet,Antihistamine
+278,angicam-beta tablet,Painkiller
+279,amicobal 10mg/1500mcg tablet,Antibiotic 
+280,actibile 300 tablet,Painkiller
+281,ambrolite levo syrup,Antihistamine
+282,amaryl m forte 2mg tablet pr,Antibiotic 
+283,acivir cream,Antihistamine
+284,azicip 250 tablet,Antibiotic 
+285,algesia cr 200mg/20mg capsule,Antihistamine
+286,ascoril expectorant,Painkiller
+287,atorva 80 tablet,Antihistamine
+288,acitrom 4 tablet,Painkiller
+289,alsita 100mg tablet,Antihistamine
+290,amnurite  5 mg/1500 mcg tablet,Painkiller
+291,airz capsule,Antihistamine
+292,asomex 5 tablet,Painkiller
+293,axcer  90mg tablet,Antibiotic 
+294,anaspas tablet,Antihistamine
+295,ascabiol emulsion,Antibiotic 
+296,addwize 10mg tablet,Painkiller
+297,ascoril plus expectorant,Antihistamine
+298,amlong 10 tablet,Antihistamine
+299,abd plus tablet,
+300,allercet-m tablet,Antihistamine
+301,augpen -ds suspension,Painkiller
+302,althrocin liquid,Antibiotic 
+303,atocor 10 tablet,Antihistamine
+304,augpen 625 bid tablet,Painkiller
+305,atchol-f tablet,Antihistamine
+306,alensol-d tablet,Antihistamine
+307,arbitel-trio 25 tablet er,Painkiller
+308,acivir eye ointment,Antibiotic 
+309,aceclo tablet,Antihistamine
+310,actrapid 100 iu/ml flexpen,Painkiller
+311,amitone 25mg tablet,Antihistamine
+312,anafortan syrup,Painkiller
+313,acera-d capsule sr,Painkiller
+314,aerodil sf expectorant,Antihistamine
+315,aculip h 12.5 mg/5 mg tablet,Antihistamine
+316,aztolet  20 tablet,Painkiller
+317,amlopin 5 tablet,Painkiller
+318,arimidex 1mg tablet,
+319,alzil-m 5 tablet,Painkiller
+320,acuvert tablet,Antihistamine
+321,alciflox 500mg tablet,Antihistamine
+322,azax 250 tablet,Antibiotic 
+323,aceclo spas tablet,Painkiller
+324,asthakind-ls drop,Antihistamine
+325,ascabiol emulsion,Antibiotic 
+326,alphadol 0.25mcg capsule,Antihistamine
+327,alex cough lozenges sugar free,Painkiller
+328,arip mt 10 tablet,Antibiotic 
+329,anabel liquid gel,Antihistamine
+330,aricep 5 tablet,Painkiller
+331,amlosafe-at tablet,Antibiotic 
+332,aceclo sr tablet,Antihistamine
+333,azopt opthalmic suspension,Antibiotic 
+334,amitop 10 tablet,Antihistamine
+335,ambulax m tablet,Antibiotic 
+336,alcipro 500mg tablet,Antihistamine
+337,assurans tablet,Antibiotic 
+338,augpen lb 625 tablet,Antibiotic 
+339,alkaliser syrup,Antihistamine
+340,aquaviron 40mg capsule,Painkiller
+341,angiwell 2.6mg tablet,Antibiotic 
+342,anaflam th  4  tablet,Antihistamine
+343,alzil 5 tablet,Antibiotic 
+344,amlo 5mg tablet,Antihistamine
+345,asthalin plus expectorant,Painkiller
+346,ascabiol emulsion,Antihistamine
+347,amitone plus tablet,Painkiller
+348,akt 2 tablet,Antihistamine
+349,alex plus paediatric oral drops,Antihistamine
+350,antacid tablet,Antihistamine
+351,apresol tablet,Antibiotic 
+352,atchol 40 tablet,Antibiotic 
+353,amlong-h tablet,Painkiller
+354,airz-ff capsule,Antihistamine
+355,arflur 3d tablet,Painkiller
+356,azmarda 200mg tablet,Painkiller
+357,amixide 10mg tablet,Antibiotic 
+358,avomine 25mg tablet md,Antihistamine
+359,arpizol 2mg tablet,Antihistamine
+360,ascodex cough syrup,Antibiotic 
+361,aerocort forte rotacap,Antihistamine
+362,af 200 tablet,Painkiller
+363,aquasurge  eye drop,Painkiller
+364,atorva asp 75 capsule,Antibiotic 
+365,azivent 500 tablet,Antihistamine
+366,azithral eye ointment,Antihistamine
+367,adtrol xt tablet,Antibiotic 
+368,aqualube eye drop,Painkiller
+369,antisnake venom injection,Antihistamine
+370,acrotac 25mg capsule,Antihistamine
+371,azathioprine 50mg tablet,Painkiller
+372,amrolstar nail lacquer,Painkiller
+373,allercet-m syrup,Antibiotic 
+374,atchol 10 tablet,Painkiller
+375,alphagan z ophthalmic solution,Antihistamine
+376,acutret 10 capsule,Painkiller
+377,acnedap gel,Antibiotic 
+378,amoxycillin 125mg oral suspension,Antihistamine
+379,advanced lcf kid expectorant,Painkiller
+380,amitryn 10 tablet,Painkiller
+381,amtas-at tablet,Antibiotic 
+382,accentrix solution for injection,Antihistamine
+383,arpizol 10 tablet,Antibiotic 
+384,alkasol oral solution,Antihistamine
+385,aldactone 100 tablet,Painkiller
+386,aztogold 20 capsule,Antibiotic 
+387,addna tablet,Antibiotic 
+388,amtas-m 50 tablet pr,Antihistamine
+389,akilos-p tablet,Painkiller
+390,avas cv 10 capsule,Antihistamine
+391,actilyse 50mg injection,Painkiller
+392,acceclowoc-sp tablet,Antihistamine
+393,amodep at tablet,Antibiotic 
+394,amlopres at 25 tablet,Antihistamine
+395,acular ls ophthalmic solution,Antihistamine
+396,anxipan capsule,Painkiller
+397,advent 91.4mg drops tangy orange,Antibiotic 
+398,azee xl 200mg dry syrup peppermint,Antibiotic 
+399,abevia 100 capsule,Antihistamine
+400,alex oral drops orange,Antihistamine
+401,amoxyclav ds syrup,Antibiotic 
+402,alcoliv tablet,Antibiotic 
+403,anosum cream,Antihistamine
+404,amlovas-m 5/50 tablet pr,Antibiotic 
+405,alkamax mb alkamax mb6 oral solution,Painkiller
+406,amlosafe tm 40 tablet,Antihistamine
+407,apetamin syrup,Antihistamine
+408,aceflam p 100mg/325mg tablet,Antihistamine
+409,ascovent -sr tablet,Antibiotic 
+410,acotrust  tablet,Antihistamine
+411,acupat ophthalmic solution,Antihistamine
+412,arcolane 2% scalp solution,Antibiotic 
+413,atropine 1% eye drop,Painkiller
+414,amyclox-lb capsule,Antihistamine
+415,alamin injection,Antihistamine
+416,aquim pf eye drop,Antibiotic 
+417,arbitel-am tablet,Antibiotic 
+418,aprecap 125/80 capsule,Antihistamine
+419,ab phylline syrup,Painkiller
+420,azeflo ft nasal spray,Antibiotic 
+421,atorva f tablet,Antihistamine
+422,amicline plus tablet,Antibiotic 
+423,acimol mr 100mg/325mg/250mg tablet,Painkiller
+424,abiways tablet,Painkiller
+425,asthakind tablet,Antihistamine
+426,aprezo 10 tablet,Antibiotic 
+427,air 120 tablet,Antihistamine
+428,amoxycillin  250mg capsule,Antibiotic 
+429,acenac sp 100mg/325mg/15mg tablet,Antihistamine
+430,aginal-at tablet,Antibiotic 
+431,allrite dc tablet er,Painkiller
+432,asthalin 2 tablet,Antihistamine
+433,arip mt 2 tablet,Antibiotic 
+434,alcet 5mg tablet,Painkiller
+435,aplazar tablet,Painkiller
+436,amicon 10 tablet,Antibiotic 
+437,amaryl m forte 1mg tablet pr,Antibiotic 
+438,amicline tablet,Antihistamine
+439,acivir iv injection,Antibiotic 
+440,atm 200 oral suspension,Painkiller
+441,apidra solostar 100iu/ml injection,Antihistamine
+442,ab2 kit,Painkiller
+443,amitryn 10 tablet,
+444,atarax 25mg injection,Painkiller
+445,afoglip m  500 tablet er,Antibiotic 
+446,amlozaar tablet,Antibiotic 
+447,abel 40 tablet,Painkiller
+448,acolate plus tablet,Painkiller
+449,ampilox ds tablet,Antibiotic 
+450,asthalin rotacaps,Antihistamine
+451,asthalin dx syrup,Antibiotic 
+452,asthalin rotacaps,Antihistamine
+453,atorlip 20 tablet,Antihistamine
+454,altacef 500 tablet,Antibiotic 
+455,amlokind 2.5 tablet,Antibiotic 
+456,ambistryn-s 0.75gm injection,Antihistamine
+457,ambulax-et tablet,Antibiotic 
+458,acceclowoc-p tablet,Painkiller
+459,alprax forte 0.5 mg/50 mg tablet,Antihistamine
+460,alsita-m 100 tablet er,Painkiller
+461,axogurd nt tablet sr,Antihistamine
+462,aclind bp 2.5% gel,Antibiotic 
+463,anxiset 0.5 tablet,Antihistamine
+464,atonide-h cream,Antibiotic 
+465,aldonil tablet,Painkiller
+466,anticold  tablet,Painkiller
+467,alcros 100 capsule,Painkiller
+468,azibact 200 readymix oral suspension,Antihistamine
+469,atchol 20 tablet,Antibiotic 
+470,azibest 500mg tablet,Antihistamine
+471,amoxy 500mg capsule,Antibiotic 
+472,a-ret 0.05% gel,Antihistamine
+473,adenosine 3mg injection,Painkiller
+474,ascoril plus tablet,Antihistamine
+475,azulix 2 mf forte tablet pr,Antibiotic 
+476,amlokind-h tablet,Antihistamine
+477,aziderm 10% gel,Antibiotic 
+478,amlopin-m tablet pr,Antihistamine
+479,ascodex junior syrup,Antibiotic 
+480,alevo 500 tablet,Painkiller
+481,avanair 200 tablet,Antihistamine
+482,atorlip 40 tablet,Antihistamine
+483,anafortan-mf 50mg/250mg tablet,Antihistamine
+484,amitriptyline hcl 25mg tablet,Painkiller
+485,aqsusten  25 solution for injection,Antibiotic 
+486,amicet 5 mg/60 mg tablet,Antibiotic 
+487,amrox junior syrup,Antihistamine
+488,atm 250 tablet,Painkiller
+489,anawin heavy 5mg injection,Antihistamine
+490,adaple-c gel,Antibiotic 
+491,aravon injection,Antihistamine
+492,akilos-sp tablet,Painkiller
+493,amlozaar-h tablet,Antibiotic 
+494,alight plus gel,Antibiotic 
+495,anaspas 25mg injection,Antihistamine
+496,azibact lr 100 readymix,Painkiller
+497,aquazide 25 tablet,Painkiller
+498,amlodac 2.5 tablet,Antihistamine
+499,amoxclav 500 mg/125 mg tablet,Antibiotic 
+500,amplinak opthalmic suspension,Painkiller
